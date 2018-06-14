@@ -2,8 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from pylab import *
 
-
-
 # LaTex Interpreter
 plt.rc('text', usetex=True)
 plt.rc('font', family='serif')
